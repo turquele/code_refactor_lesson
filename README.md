@@ -3,13 +3,13 @@
 Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards.
 This website was developed to have high accessibility.
 
-##Installation
+## Installation
 N/A
 
-##Usage
+## Usage
 
-##Credits
+## Credits
 Jose Alonso jose.m.alonso.g@gmail.com
 
-##License
+## License
 MIT
