@@ -7,6 +7,7 @@ This website was developed to have high accessibility.
 N/A
 
 ## Usage
+N/A
 
 ## Credits
 Jose Alonso jose.m.alonso.g@gmail.com
